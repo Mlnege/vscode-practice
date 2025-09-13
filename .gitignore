@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+*.o
+*.exe
+
+# IDE files
+.vscode/settings.json
+.vscode/.ropeproject
+
+# System files
+.DS_Store
+Thumbs.db
